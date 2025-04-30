@@ -50,3 +50,8 @@ The jar has libraries bundled inside of the [META-INF/rewrite/classpath director
 ## Contributing
 
 We appreciate all types of contributions. See the [contributing guide](https://github.com/openrewrite/.github/blob/main/CONTRIBUTING.md) for detailed instructions on how to get started.
+
+## License
+
+This repository is licensed under the [Moderne Source Available License (MSAL)](LICENSE/moderne-source-available-license.md).
+Prior it was licensed unter [Apache Licencse 2.0](LICENSE/apache-license-v2.txt).
